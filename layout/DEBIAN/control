@@ -1,0 +1,9 @@
+Package: com.freemanrepo.siriboard
+Name: SiriBoard
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Launch Siri from an icon on your SpringBoard!
+Maintainer: FreeManRepo
+Author: FreeManRepo
+Section: Tweaks
